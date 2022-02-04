@@ -1,0 +1,10 @@
+Laporan Keluhan
+Laporan Order
+Laporan Return
+Laporan Barang Masuk
+Laporan Barang Rusak
+Laporan Invoice
+
+Laporan Custom Baju
+Laporan Grafik Penjualan
+Laporan Grafik Pembelian
